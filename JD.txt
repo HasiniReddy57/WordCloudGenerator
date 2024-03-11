@@ -1,0 +1,67 @@
+About the job
+CrowdStrike is a global leader in cybersecurity. Our University Program is dedicated to attracting and cultivating the next generation of talent in virtually every field. Our program offers paid positions that allow students and recent graduates to gain real-world experience and develop essential skills while they learn from the best and brightest working professionals. We offer our interns a structured program and supportive environment where they can ignite their passion for the future. Our University Program is designed to provide participants exposure to meaningful work that supports our mission to make the digital world a safer place to live and work. CrowdStrike is where your talent meets cutting-edge tech. Ready to start building a career you can be proud of? Join us!
+
+About The Role
+
+As a UI Engineer Intern at CrowdStrike, you will work with a talented and dedicated team to build and maintain the user interface for the Falcon platform. You will provide a high-quality user experience that our customers around the world use 24/7 to protect their systems from the most sophisticated adversaries.
+
+Our JavaScript framework is Ember, but if you've used React, Angular, or Vue.js, you'll feel right at home, and we’ll help you get comfortable with both Ember and our codebase. Since we only support evergreen browsers, we can push the boundaries of what’s possible on the web platform while working with truly massive amounts of data. Our ideal candidates are sensitive to the needs of the users and love to find solutions in a unique and dynamic problem space.
+
+We’re a highly collaborative, friendly, inclusive and diverse group that prizes collaboration over competition. We provide opportunities to learn new skills, mentor fellow engineers, and contribute to the direction of both the team and the products for which we’re responsible. We work in a distributed, remote-first, high-trust environment where you manage your own time and have the flexibility to balance your work and personal life.
+
+What You'll Do
+
+Build and maintain single page web applications written in JavaScript using Ember.js
+Participate in the code review process
+Take initiative and build tools that improve your teams development experience
+Write automated tests for your code
+Collaborate with fellow UX Engineers, Cloud Engineers, UX Designers.
+Continually learn about the ever-evolving challenges and complexities of the cybersecurity industry
+Have fun solving hard problems
+
+What You’ll Need
+
+Currently enrolled at a four university, currently working towards a CS/Engineering degree, graduating between December 2024- August 2025
+A good understanding of JavaScript and high level experience building web application user interfaces with modern frameworks such as Ember, React, Angular, or Vue.
+HTML & CSS skills, including experience with CSS pre- or post-processors (like Sass or PostCSS) and CSS frameworks like Tailwind CSS
+Knowledge in testing frameworks, tools and methodologies such as QUnit, Mocha & Selenium.
+Knowledge & interest in developing genuinely accessible interfaces.
+Comfortable with Git or similar version control systems and workflows.
+A desire to work closely with others to deliver quality software and solve problems.
+
+Bonus Points
+
+Familiarity with client-side build processes and tools (e.g. Ember CLI, Webpack, etc.)
+Experience creating or contributing to open source projects.
+Experience with graphics and visualization tools such as D3 or Three.js.
+Experience with UI performance measurement and optimization
+
+What You Can Expect
+
+Executive Speaker Series & Tech Talks
+Fun socials and give-back events (e.g. virtual trivia, escape rooms, etc.)
+Development workshops to grow your soft and hard skills
+Networking opportunities with fellow interns and CrowdStrikers
+Owning impactful projects that move the company forward
+Working alongside a diverse and global team
+Assigned mentor and continuous feedback
+Participation in our Employee Resource Groups (ERGs)
+Access to our FalconFit Wellness Program and Employee Assistance Program
+Fun Slack channels (e.g. food, gaming, sports, pets, etc.)
+Paid holidays and 401k matching
+Remote-first culture
+Market leader in compensation
+
+We are committed to fostering a culture of belonging where everyone feels seen, heard, valued for who they are and empowered to succeed. Our approach to cultivating a diverse, equitable, and inclusive culture is rooted in listening, learning and collective action. By embracing the diversity of our people, we achieve our best work and fuel innovation - generating the best possible outcomes for our customers and the communities they serve.
+
+CrowdStrike is committed to maintaining an environment of Equal Opportunity and Affirmative Action. If you need reasonable accommodation to access the information provided on this website, please contact Recruiting@crowdstrike.com , for further assistance.
+
+CrowdStrike participates in the E-Verify program.
+
+Notice of E-Verify Participation
+
+Right to Work
+
+CrowdStrike, Inc. is committed to fair and equitable compensation practices. The hourly rate for this position is $38 - $45
+
+Expected Close Date of Job Posting is:05-04-2024

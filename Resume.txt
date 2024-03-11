@@ -1,0 +1,47 @@
+Hasini Patlolla
+* Irvine, CA 92617  623-290-6581 # hpatloll@uci.edu ï linkedin.com/in/hasinireddy § github.com/HasiniReddy57 Summary
+Software Engineer pursuing a master’s degree in Computer Engineering at the University of California with prior work experience at AT&T Global Network Services India Private Ltd. Proficient in Python, Java, Front-end web development, Big Data Analytics, and Data Structures & Algorithms.
+Technical Skills
+Languages: Python, Java, C, C++, SystemC, HTML/CSS, JavaScript, SQL, R, MATLAB
+Web Frameworks: Linux, React.js, Next.js, Node.js, Redux Toolkit, Bootstrap.css, Tailwind.css, Zephyr, Figma Databases/Blockchain: Teradata, Vertica, Kafka, Spark, Hadoop, Snowflake, MongoDB, Redis, NoSQL, Solidity, Ethereum
+Education
+University of California
+Master of Science in Computer Engineering (GPA: 3.7/4.0)
+Osmania University
+Bachelor of Engineering in Computer Science and Engineering (GPA: 4.0/4.0)
+Experience
+AT&T
+Software Development Engineer
+09/2023 – 12/2024
+Irvine, California
+08/2019 – 07/2023
+Hyderabad, India
+07/2023 – 10/2023
+Hyderabad, India
+• Engineered a global credit decision engine at AT&T, employing advanced algorithms to automate credit evaluations based on customer credit history, showcasing proficiency in data analysis.
+• Optimized engine functionality by implementing predictive analytics, preventing blocked or ineligible requests through trend analysis, demonstrating expertise in data science and analytics.
+• Leveraged the iTrack platform for real-time project updates, orchestrating efficient communication with stakeholders, ensuring transparency, and streamlining project management processes.
+• Finalist in AT&T PI 17 Innovation Jam, delivering a groundbreaking pitch on ’Revolutionizing Shopping: Personalized Top 5 Picks in the US,’ showcasing innovation and technical acumen in machine learning applications.
+AT&T 02/2023 – 07/2023 Software Development Engineer-Intern Hyderabad, India
+• Assisted in the front-end development of the official AT&T web application, utilizing React.js and Next.js frameworks, showcasing prowess in cutting-edge web technologies.
+• Contributed to a dynamic team of 7 developers, 2 project managers, and 2 quality assurance engineers, optimizing continuous 2-program increments leading to an iconic release.
+• Coordinated modifications and task assignments using Code Cloud version control, streamlining collaboration and ensuring efficient workflow.
+• Employed Visual Studio Code and Chrome browser to craft a versatile development environment, optimizing visualization across various mobile and desktop dimensions, emphasizing attention to detail and user experience considerations.
+Cognizant 10/2022 – 12/2022 Artificial Intelligence Intern Remote
+• Completed a job simulation focused on AI-Driven Optimization for Grocery Retail for Cognizant’s Data Science team on Forage.
+• Prepared a Python module that contains code to train a model and output the performance metrics for the Machine Learning engineering team.
+• Conducted exploratory data analysis using Python and Google Colab for one of Cognizant’s technology-led clients, Gala Groceries. Pro jects
+Team Management System | Next.js, React.js, File Systems, JSON Web Tokens, HTML/CSS, VS Code 02/2023 – 04/2023
+• Developed an efficient team management system featuring user and admin functionalities for technical teams at AT&T to
+collaborate and share information seamlessly.
+• Improved existing features inspired by platforms like Microsoft Teams and Webex, displaying team activities, issues, and ideas with
+interactive user interface and advanced security features.
+Ecommerce website | Next.js, React.js, Bootstrap.css, JSON Web Tokens, File Systems, HTML/CSS, VS Code 12/2022 – 02/2023
+• Developed a dynamic ecommerce web application using React.js and Next.js frameworks in VS Code, employing Bootstrap for
+visually appealing UI and enhanced accessibility.
+• Implemented secure user authentication and authorization through JSON web tokens, empowering admin users to manage products
+(add, update, delete) and analyze purchase trends for informed decision-making. Designed to deal with huge product data.
+Product Recommender System | Python, Collaborative filtering 07/2022 – 10/2022
+• Developed a cutting-edge product recommender system in Python, optimizing personalized suggestions with user-based
+collaborative filtering techniques on Amazon’s electronics dataset.
+• Orchestrated an innovative approach by prioritizing user purchase history over traditional frequency counts showcasing top 5 recommendations from 4.5 million records resulting in a conference paper (’Building an Efficient Product Recommender System’).
